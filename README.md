@@ -5,11 +5,11 @@
 </p>
 
 ## About me
-<p>Having been in IT for about ten years now, I started as an IT technician then webmaster and since June 2025, I joined the **Holberton School** and discovered the world of programming.<p>
+<p>Having been in IT for about ten years now, I started as an IT technician then webmaster and since June 2025, I joined the <strong>Holberton School<strong> and discovered the world of programming.<p>
 <ul>
     <li>Location : Toulouse</li>
     <li>Currently : Student fullstack developer</li>
-    <li>Open to : an apprenticeship starting ideally on **March 30, 2026**, but I am willing to do an **internship** from that date in order to be able to start the apprenticeship contract at the start of the following academic year.</li>
+    <li>Open to : an apprenticeship starting ideally on <strong>March 30, 2026<strong>, but I am willing to do an **internship** from that date in order to be able to start the apprenticeship contract at the start of the following academic year.</li>
 </ul>
 
 
