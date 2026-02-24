@@ -1,6 +1,6 @@
 <p align="center">
     <picture>
-        <img src="./assets/images/banner.webp" alt="GitHub profil banner">
+        <img src="./asset/images/banner.webp" alt="GitHub profil banner">
     </picture>
 </p>
 
