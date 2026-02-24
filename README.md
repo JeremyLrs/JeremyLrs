@@ -51,7 +51,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?logo=css&logoColor=white) 
 
 
-## Statistick
+## Statistics
+
+<br>
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="dislay: block;"><img height="145em" src="https://JeremyLrs-githubreadmestats.vercel.app//api?username=JeremyLrs&bg_color=00000000&hide_border=true&hide_title=true&hide=contribs" alt="GitHub statistics"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://JeremyLrs-githubreadmestats.vercel.app/api/top-langs/?username=JeremyLrs&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab" alt="GitHub statistics"></a>
+</p>
 
 <p align="right">
     <a href="https://shields.io/"><img alt="GitHub followers" src="https://img.shields.io/github/followers/JeremyLrs?style=flat&label=Followers" alt="GitHub followers badge"></a>
