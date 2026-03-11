@@ -52,12 +52,19 @@
 
 
 ## Statistics
-
-<br>
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" style="dislay: block;"><img height="145em" src="https://JeremyLrs-githubreadmestats.vercel.app//api?username=JeremyLrs&bg_color=00000000&hide_border=true&hide_title=true&hide=contribs" alt="GitHub statistics"></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://JeremyLrs-githubreadmestats.vercel.app/api/top-langs/?username=JeremyLrs&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab" alt="GitHub statistics"></a>
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="https://github-readme-stats.vercel.app/api?username=JeremyLrs&theme=dark&bg_color=00000000&hide_border=true&hide_title=true&hide=contribs&ring_color=336fff&cache_seconds=3600" width="100%"/><br/>
+      <img src="https://streak-stats.demolab.com?user=JeremyLrs&theme=dark&hide_border=true&background=00000000&ring=336fff&fire=ff6f33&cache_seconds=3600" width="100%"/>
+    </td>
+    <td style="vertical-align: top;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyLrs&layout=compact&theme=dark&hide_border=true&bg_color=00000000&hide_title=true&hide=shaderlab&text_color=7f7f7f&icon_color=60a5fa&cache_seconds=3600&langs_count=20" height="100%"/>
+    </td>
+  </tr>
+</table>
+</div>
 
 <p align="right">
     <a href="https://shields.io/"><img alt="GitHub followers" src="https://img.shields.io/github/followers/JeremyLrs?style=flat&label=Followers" alt="GitHub followers badge"></a>
